@@ -1,0 +1,10 @@
+G:\Projects\.NET C#\Desktop\RandomSequenceGenerator\RandomSequenceGenerator\bin\Debug\RandomSequenceGenerator.exe.config
+G:\Projects\.NET C#\Desktop\RandomSequenceGenerator\RandomSequenceGenerator\bin\Debug\RandomSequenceGenerator.exe
+G:\Projects\.NET C#\Desktop\RandomSequenceGenerator\RandomSequenceGenerator\bin\Debug\RandomSequenceGenerator.pdb
+G:\Projects\.NET C#\Desktop\RandomSequenceGenerator\RandomSequenceGenerator\obj\Debug\RandomSequenceGenerator.csprojAssemblyReference.cache
+G:\Projects\.NET C#\Desktop\RandomSequenceGenerator\RandomSequenceGenerator\obj\Debug\RandomSequenceGenerator.Form1.resources
+G:\Projects\.NET C#\Desktop\RandomSequenceGenerator\RandomSequenceGenerator\obj\Debug\RandomSequenceGenerator.Properties.Resources.resources
+G:\Projects\.NET C#\Desktop\RandomSequenceGenerator\RandomSequenceGenerator\obj\Debug\RandomSequenceGenerator.csproj.GenerateResource.cache
+G:\Projects\.NET C#\Desktop\RandomSequenceGenerator\RandomSequenceGenerator\obj\Debug\RandomSequenceGenerator.csproj.CoreCompileInputs.cache
+G:\Projects\.NET C#\Desktop\RandomSequenceGenerator\RandomSequenceGenerator\obj\Debug\RandomSequenceGenerator.exe
+G:\Projects\.NET C#\Desktop\RandomSequenceGenerator\RandomSequenceGenerator\obj\Debug\RandomSequenceGenerator.pdb
